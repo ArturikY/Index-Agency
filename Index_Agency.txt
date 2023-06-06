@@ -1,0 +1,36 @@
+.block_2__3 {
+    width: 309px;
+    height: 391px;
+    position: relative;
+    margin-left: 55%;
+    padding-top: 150px;
+}
+
+.picture_2__1 {
+    width: 100%;
+}
+
+.block_2__2 {
+    width: 309px;
+    height: 418px;
+    background-color: #4CAF50;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    position: absolute;
+    left: -225px;
+    top: 100px;
+    z-index: 0;
+}
+
+.block_2__1 {
+    width: 309px;
+    height: 391px;
+    position: absolute;
+    left: -225px;
+    top: -75px;
+    z-index: 1;
+}
+
+.picture_2__2 {
+    width: 100%;
+}
